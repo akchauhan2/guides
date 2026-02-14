@@ -1,34 +1,52 @@
-# Quick Guides Repository
+# 🚀 DevOps & Docker Guides
 
-A collection of technical guides and documentation.
+![GitHub stars](https://img.shields.io/github/stars/akchauhan2/guides?style=social)
+![GitHub forks](https://img.shields.io/github/forks/akchauhan2/guides?style=social)
+![License](https://img.shields.io/github/license/akchauhan2/guides)
+![Last Commit](https://img.shields.io/github/last-commit/akchauhan2/guides)
 
-## 📚 Table of Contents
-
-### Docker & DevOps
-
-- [Advanced Docker Production Guide](Docker/Advanced%20Docker%20Production%20Guide.md) - In-depth guide for production Docker deployments
-- [Docker + Nginx + Node Production Template](Docker/Docker%20+%20Nginx%20+%20Node%20Production%20Template.md) - Complete stack template for Node.js applications
-- [Docker Interview Prep Guide](Docker/Docker%20Interview%20Prep%20Guide.md) - Interview preparation material for Docker
-- [Real Project Docker Folder Structure](Docker/Real%20Project%20Docker%20Folder%20Structure.md) - Recommended folder organization for Docker projects
+A curated collection of practical DevOps, Docker, and production deployment guides for developers.
 
 ---
 
-## 🚀 Quick Navigation
+## 📚 Available Guides
 
-- **Beginners**: Start with [Docker Interview Prep Guide](Docker/Docker%20Interview%20Prep%20Guide.md)
-- **Setup & Structure**: See [Real Project Docker Folder Structure](Docker/Real%20Project%20Docker%20Folder%20Structure.md)
-- **Production Ready**: Review [Advanced Docker Production Guide](Docker/Advanced%20Docker%20Production%20Guide.md)
-- **Ready-to-use Template**: Check [Docker + Nginx + Node Production Template](Docker/Docker%20+%20Nginx%20+%20Node%20Production%20Template.md)
-
----
-
-## 📝 How to Add New Quick Guides
-
-1. Create a new markdown file in the appropriate category folder (e.g., `Docker/`)
-2. Add a descriptive filename (e.g., `Topic Name.md`)
-3. Update this README with a link to the new note in the correct section
-4. Organize by category in the Table of Contents
+- 📘 [Advanced Docker Production Guide](./advanced-docker-production-guide.md)
+- 🏗 [Real Project Docker Folder Structure](./real-project-structure.md)
+- 🐳 [Docker + Nginx + Node Production Template](./docker-nginx-node-template.md)
+- 📦 [Docker Interview Preparation Guide](./docker-interview-prep.md)
 
 ---
 
-**Last updated**: February 14, 2026
+## 🎯 Purpose
+
+This repository is designed to:
+
+- Help developers learn Docker properly
+- Provide production-ready best practices
+- Prepare for DevOps / Backend interviews
+- Serve as a personal DevOps knowledge base
+
+---
+
+## 🛠 Tech Topics Covered
+
+- Docker & Docker Compose
+- Nginx Production Setup
+- Multi-Stage Builds
+- Container Optimization
+- Deployment Patterns
+- Interview Q&A
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Please read `CONTRIBUTING.md` before submitting a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
