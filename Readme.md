@@ -13,16 +13,16 @@ A curated collection of practical DevOps, Docker, Kubernetes, and production dep
 
 ### Docker Guides
 
-1. [Advanced Docker Production Guide](advanced-docker-production-guide.md) - In-depth guide for production Docker deployments
-2. [Real Project Docker Folder Structure](real-project-structure.md) - Recommended folder organization for Docker projects
-3. [Docker + Nginx + Node Production Template](docker-nginx-node-template.md) - Complete stack template for Node.js applications
-4. [Docker Interview Prep Guide](docker-interview-prep.md) - Interview preparation material for Docker
+1. [Advanced Docker Production Guide](./Docker/advanced-docker-production-guide.md) - In-depth guide for production Docker deployments
+2. [Real Project Docker Folder Structure](./Docker/real-project-structure.md) - Recommended folder organization for Docker projects
+3. [Docker + Nginx + Node Production Template](./Docker/docker-nginx-node-template.md) - Complete stack template for Node.js applications
+4. [Docker Interview Prep Guide](./Docker/docker-interview-prep.md) - Interview preparation material for Docker
 
 ### Kubernetes Guides
 
-1. [Kubernetes Beginner Roadmap](kubernetes-beginner-roadmap.md) - Step-by-step learning path from zero to production
-2. [Kubernetes YAML Cheatsheet](kubernetes-yaml-cheatsheet.md) - Quick reference for writing Kubernetes YAML files
-3. [Kubernetes Interview Prep Guide](kubernetes-interview-prep.md) - Common questions, scenarios, and command references for interviews
+1. [Kubernetes Beginner Roadmap](./Kubernetes/kubernetes-beginner-roadmap.md) - Step-by-step learning path from zero to production
+2. [Kubernetes YAML Cheatsheet](./Kubernetes/kubernetes-yaml-cheatsheet.md) - Quick reference for writing Kubernetes YAML files
+3. [Kubernetes Interview Prep Guide](./Kubernetes/kubernetes-interview-prep.md) - Common questions, scenarios, and command references for interviews
 
 ---
 
